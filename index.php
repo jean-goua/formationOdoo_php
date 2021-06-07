@@ -13,8 +13,8 @@
         <?php
         $url = "https://formation.vracoop.fr";
         $db = "formation_test";
-        $username = "Jean";
-        $password = "vracoop";
+        $username = "";
+        $password = "";
 
         require_once('ripcord/ripcord.php');
 
